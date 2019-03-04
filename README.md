@@ -10,15 +10,10 @@ bootstrap 3
 Jquery plugins 
 
 
-
-Give an example
-Deployment
-Add additional notes about how to deploy this on a live system
-
 Built With
-Dropwizard - The web framework used
-Maven - Dependency Management
-ROME - Used to generate RSS Feeds
+PHP - Modular
+Ajax - 
+bootstrap 3- Used to generate RSS Feeds
 Contributing
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
@@ -28,8 +23,8 @@ We use SemVer for versioning. For the versions available, see the tags on this r
 Authors
 Leonard Mutuku - liniacle Inc
   Contributors
-      - Peter Mash
-      - Allan Mboti
+      - Peter Mash - liniacle Inc
+      - Allan Mboti - liniacle Inc
       - Cathyrn Chepkirui
 
 License
